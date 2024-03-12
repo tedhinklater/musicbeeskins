@@ -18,70 +18,80 @@
 
 <!-- Album Carousel -->
 
-	<element name="#Cover_01" type="AlbumCover" id="Tracks[0]" xAnchor="Panel.5" x="0" yAnchor="Panel.0.1" y="0" align="Top.Left" widthDock="Panel.Height.85" width="0" heightDock="Panel.Height.85" height="0" brightness="1.0"/>
+	<element name="#Cover_01" type="AlbumCover" id="Albums[0]" xAnchor="Panel.5" x="0" yAnchor="Panel.0.1" y="0" align="Top.Left" widthDock="Panel.Height.85" width="0" heightDock="Panel.Height.85" height="0" brightness="1.0"/>
 
-	<element name="#Cover_02" type="AlbumCover" id="Tracks[1]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.0" y="0" align="Top.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
-
-
-	<element name="#Cover_03" type="AlbumCover" id="Tracks[2]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.103" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.8"/>
+	<element name="#Cover_02" type="AlbumCover" id="Albums[1]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.0" y="0" align="Top.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="1.0"/>
 
 
-	<element name="#Cover_04" type="AlbumCover" id="Tracks[3]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.112" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
+	<element name="#Cover_03" type="AlbumCover" id="Albums[2]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.103" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.9"/>
 
 
-	<element name="#Cover_05" type="AlbumCover" id="Tracks[4]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.121" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.8"/>
+	<element name="#Cover_04" type="AlbumCover" id="Albums[3]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.112" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.8"/>
 
 
-	<element name="#Cover_06" type="AlbumCover" id="Tracks[5]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.130" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.5"/>
+	<element name="#Cover_05" type="AlbumCover" id="Albums[4]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.121" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.9"/>
 
 
-	<element name="#Cover_07" type="AlbumCover" id="Tracks[6]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.139" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.7"/>
+	<element name="#Cover_06" type="AlbumCover" id="Albums[5]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.130" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.8"/>
 
 
-	<element name="#Cover_08" type="AlbumCover" id="Tracks[7]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.148" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.4"/>
+	<element name="#Cover_07" type="AlbumCover" id="Albums[6]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.139" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.9"/>
 
 
-	<element name="#Cover_09" type="AlbumCover" id="Tracks[8]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.157" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.6"/>
+	<element name="#Cover_08" type="AlbumCover" id="Albums[7]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.148" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.8"/>
 
 
-	<element name="#Cover_10" type="AlbumCover" id="Tracks[9]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.166" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.3"/>
+	<element name="#Cover_09" type="AlbumCover" id="Albums[8]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.157" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.9"/>
+
+
+	<element name="#Cover_10" type="AlbumCover" id="Albums[9]" xAnchor="#Cover_01.Right" x="840" yAnchor="Panel.166" y="0" align="Bottom.Right" widthDock="Panel.Height.75" width="0" heightDock="Panel.Height.75" height="0" brightness="0.8"/>
 
 
 
 	<autoHide name="#TrackInfoPanel" xAnchor="#Cover_03.0" x="0" yAnchor="#Cover_03.0" y="0" align="Top.Left" widthDock="x:#Cover_03.Right" width="1" heightDock="y:#Cover_10.Bottom" height="1" bg="125,0,0,0" allowPinning="true" resizePictures="false">
 
-
-	<element name="#Text_03" type="Field" id="Tracks[2]" xAnchor="#Cover_03.0" x="0" yAnchor="#Cover_03.7" y="0" widthDock="x:#Cover_03.95" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" interval="10" align="center" size="10" fg="225,225,225" fg2="0,255,255" mouseOverFg="252,161,3" onClick="playNow:2">
-    		<child id="Title" width="Panel.50"></child>    <child>  •  </child>
+	<element name="#Text_02" type="Field" id="Albums[1]" xAnchor="#Cover_03.0" x="0" yAnchor="#Cover_02.5" y="0" widthDock="x:#Cover_02.95" width="0" heightDock="Panel.Height.10" height="0" font="lemon milk" align="center" size="14" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:1">
+    		<child id="Album" width="Panel.50"></child><child>  •  </child>
 		<child id="Artist" ></child>
 	</element>
 
-	<element name="#Text_04" type="Field" id="Tracks[3]" xAnchor="#Cover_04.0" x="0" yAnchor="#Cover_04.7" y="0" widthDock="x:#Cover_04.95" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" align="center" size="10" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:3">
-    		<child id="Title" width="Panel.50"></child><child>  •  </child>
+	<element name="#Text_03" type="Field" id="Albums[2]" xAnchor="#Cover_03.0" x="0" yAnchor="#Cover_03.5" y="0" widthDock="x:#Cover_03.95" width="0" heightDock="Panel.Height.10" height="0" font="lemon milk" align="center" size="14" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:2">
+    		<child id="Album" width="Panel.50"></child><child>  •  </child>
 		<child id="Artist" ></child>
 	</element>
-	<element name="#Text_05" type="Field" id="Tracks[4]" xAnchor="#Cover_05.0" x="0" yAnchor="#Cover_05.7" y="0" widthDock="x:#Cover_05.95" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" align="center" size="10" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:4">
-   		<child id="Title" width="Panel.50"></child><child>  •  </child>
+
+	<element name="#Text_04" type="Field" id="Albums[3]" xAnchor="#Cover_04.0" x="0" yAnchor="#Cover_04.5" y="0" widthDock="x:#Cover_04.95" width="0" heightDock="Panel.Height.10" height="0" font="lemon milk" align="center" size="14" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:3">
+    		<child id="Album" width="Panel.50"></child><child>  •  </child>
 		<child id="Artist" ></child>
 	</element>
-	<element name="#Text_06" type="Field" id="Tracks[5]" xAnchor="#Cover_06.0" x="0" yAnchor="#Cover_06.7" y="0" widthDock="x:#Cover_06.95" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" align="center" size="10" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:5">
-    		<child id="Title" width="Panel.50"></child><child>  •  </child>
+	
+	<element name="#Text_05" type="Field" id="Albums[4]" xAnchor="#Cover_05.0" x="0" yAnchor="#Cover_05.5" y="0" widthDock="x:#Cover_05.95" width="0" heightDock="Panel.Height.10" height="0" font="lemon milk" align="center" size="14" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:4">
+   		<child id="Album" width="Panel.50"></child><child>  •  </child>
 		<child id="Artist" ></child>
 	</element>
-	<element name="#Text_07" type="Field" id="Tracks[6]" xAnchor="#Cover_07.0" x="0" yAnchor="#Cover_07.7" y="0" widthDock="x:#Cover_07.95" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" align="center" size="10" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:6">
-    		<child id="Title" width="Panel.50"></child><child>  •  </child>
+	
+	<element name="#Text_06" type="Field" id="Albums[5]" xAnchor="#Cover_06.0" x="0" yAnchor="#Cover_06.5" y="0" widthDock="x:#Cover_06.95" width="0" heightDock="Panel.Height.10" height="0" font="lemon milk" align="center" size="14" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:5">
+    		<child id="Album" width="Panel.50"></child><child>  •  </child>
 		<child id="Artist" ></child>
 	</element>
-	<element name="#Text_08" type="Field" id="Tracks[7]" xAnchor="#Cover_08.0" x="0" yAnchor="#Cover_08.7" y="0" widthDock="x:#Cover_08.95" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" align="center" size="10" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:7">
-   		<child id="Title" width="Panel.50"></child><child>  •  </child>
+	
+	<element name="#Text_07" type="Field" id="Albums[6]" xAnchor="#Cover_07.0" x="0" yAnchor="#Cover_07.5" y="0" widthDock="x:#Cover_07.95" width="0" heightDock="Panel.Height.10" height="0" font="lemon milk" align="center" size="14" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:6">
+    		<child id="Album" width="Panel.50"></child><child>  •  </child>
 		<child id="Artist" ></child>
 	</element>
-	<element name="#Text_09" type="Field" id="Tracks[8]" xAnchor="#Cover_09.0" x="0" yAnchor="#Cover_09.7" y="0" widthDock="x:#Cover_09.95" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" align="center" size="10" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:8">
-    		<child id="Title" width="Panel.50"></child><child>  •  </child>
+	
+	<element name="#Text_08" type="Field" id="Albums[7]" xAnchor="#Cover_08.0" x="0" yAnchor="#Cover_08.5" y="0" widthDock="x:#Cover_08.95" width="0" heightDock="Panel.Height.10" height="0" font="lemon milk" align="center" size="14" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:7">
+   		<child id="Album" width="Panel.50"></child><child>  •  </child>
 		<child id="Artist" ></child>
 	</element>
-	<element name="#Text_10" type="Field" id="Tracks[9]" xAnchor="#Cover_10.0" x="0" yAnchor="#Cover_10.7" y="0" widthDock="x:#Cover_10.95" width="0" heightDock="Panel.Height.10" height="0" font="Lemon Milk" align="center" size="10" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:9">
-    		<child id="Title" width="Panel.50"></child><child>  •  </child>
+	
+	<element name="#Text_09" type="Field" id="Albums[8]" xAnchor="#Cover_09.0" x="0" yAnchor="#Cover_09.5" y="0" widthDock="x:#Cover_09.95" width="0" heightDock="Panel.Height.10" height="0" font="lemon milk" align="center" size="14" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:8">
+    		<child id="Album" width="Panel.50"></child><child>  •  </child>
+		<child id="Artist" ></child>
+	</element>
+	
+	<element name="#Text_10" type="Field" id="Albums[9]" xAnchor="#Cover_10.0" x="0" yAnchor="#Cover_10.5" y="0" widthDock="x:#Cover_10.95" width="0" heightDock="Panel.Height.10" height="0" font="lemon milk" align="center" size="14" fg="225,225,225" mouseOverFg="252,161,3" onClick="playNow:9">
+    		<child id="Album" width="Panel.50"></child><child>  •  </child>
 		<child id="Artist" ></child>
 	</element>
 </autoHide>
@@ -91,7 +101,7 @@
 
 
 <!-- Album Info -->
-	<element type="Field" id="Title" xAnchor="#Cover_01.Bottom" x="0" yAnchor="Panel.85" y="0" widthDock="x:#Cover_01.Right" align="Center" font="Lemon Milk" style="Bold" size="22" fg="252,186,3" />
+	<element type="Field" id="Title" xAnchor="#Cover_01.Bottom" x="0" yAnchor="Panel.85.3" y="0" widthDock="x:#Cover_01.Right" align="Center" font="Lemon Milk" style="Bold" size="22" fg="252,186,3" />
 
 	<element type="Field" id="Album" xAnchor="#Cover_01.Bottom" x="0" yAnchor="Panel.89" y="0" widthDock="x:#Cover_01.Right" align="Center" font="Lemon Milk" style="Regular" size="14" fg="255,255,255" />
 		<child>  •  </child>
@@ -100,19 +110,7 @@
 	<element type="Field" id="Artist" xAnchor="#Cover_01.Bottom" x="0" yAnchor="Panel.91.5" y="0" widthDock="x:#Cover_01.Right" align="Center" font="Lemon Milk" style="Regular" size="14" fg="255,255,255" />
 
 
-<!-- Up Next -->
-	<element name="#UpNext" type="Block" xAnchor="#Cover_02.10" x="0" yAnchor="#Cover_02.25" y="0" widthDock="x:Panel.Right" width="0" heightDock="y:Panel.Bottom" height="0" fg="255,255,255,255" mouseOverFg="252,255,255,255" bg="0,0,0,0" mouseOverBg="0,0,0,0">
-    		<element type="Text" xAnchor="#Cover_02.05" x="0" yAnchor="#Cover_02.05" y="0" widthDock="Panel.20" width="0" align="left" font="Lemon Milk" style="Bold" size="8" fg="192,192,192">UP NEXT</element>
-   			<element type="Field" id="Tracks[1]" xAnchor="#Cover_02.07" x="0" yAnchor="#Cover_02.14" y="0" widthDock="x:#SpacerR.Left" width="0" align="left" font="Lemon Milk" style="Regular" size="14" fg="255,255,255" mouseOverFg="252,161,3" onClick="playNow:1">
-        		<child id="Title" width="Panel.20"/>
-   		</element>
-    		<element type="Field" id="Tracks[1]" xAnchor="#Cover_02.07" x="0" yAnchor="#Cover_02.20" y="0" widthDock="x:#SpacerR.Left" width="0" align="left" font="Lemon Milk" style="Regular" size="12" fg="220,220,220" mouseOverFg="252,161,3">
-       			<child id="Album" width="Panel.20"/>
-    		</element>
-    		<element type="Field" id="Tracks[1]" xAnchor="#Cover_02.07" x="0" yAnchor="#Cover_02.23" y="0" widthDock="x:#SpacerR.Left" width="0" align="left" font="Lemon Milk" style="Regular" size="14" fg="255,255,255" mouseOverFg="252,161,3">
-        		<child id="Artist" width="Panel.20"/>
-   		</element>
-	</element>
+
 
 
 <!-- Music Controls -->
@@ -156,14 +154,42 @@
 	<autoHide name="#LyricsPanel" xAnchor="#IIL.Left" x="0" yAnchor="#IIL.Top" y="0" widthDock="x:#IIL.Right" width="2" heightDock="y:#IIL.Bottom" height="1" bg="240,0,0,0" fg="175,175,175" fg2="200,200,200" allowPinning="true" resizePictures="false">
 		<element type="Lyrics"  xAnchor="#LyricsPanel.0" x="0" yAnchor="#LyricsPanel.15" y="0" widthDock="x:#LyricsPanel.100" width="0"  heightDock="y:#Cover_08.Top" height="0" font="Lemon Milk" style="Regular" size="10" align="Center" fg="220,220,220" fg2="0,255,125"></element>
 	</autoHide>
+	
+    <!-- Tracks Panel -->
+    <autoHide name="#TracksPanel" xAnchor="#IIL.Left" x="0" yAnchor="#IIL.Top" y="0" widthDock="x:#IIL.Right" width="2" heightDock="y:#IIL.Bottom" height="1" bg="240,0,0,0" allowPinning="true" resizePictures="false">
+	
+	<!-- Playlist -->	
+		<element name="#NowPlaying"	type="NowPlayingList" 
+		xAnchor="#Cover_01.Left"		yAnchor="Panel.Top" 
+		widthDock="X:#Cover_01.100"	heightDock="Y:#Cover_01.Bottom" 
+		x="20"					y="40" 
+		width="0"					height="-30" rowPadding="30" 
+		font="Lemon Milk" style="Regular" size="12" 
+		fg="125,125,125" fg2="252,161,3" 
+		mouseOverFg="225,225,225" multiLine="false">
+		
+		<child id="Speaker"		width="0"	align="Left" />
+		<child					width="20"/>
+		<child id="Title"		width="370"	align="Left"/>
+		<child					width="30"/>
+		<child id="Artist"		width="370"	align="Center"/>
+		<child					width="10"/>
+		<child id="Duration"	width="70"	align="Right"/>
+			
+		</element>
+
+    </autoHide>
 
 <!--Control Bar-->	
 	<element name="#Controls" type="Block" xAnchor="#Panel.Left" x="0" yAnchor="Panel.Bottom" y="-160" widthDock="x:#Cover_02.Right" width="1" height="160" bg="0,0,0,0" ></element>
 	
-	<element name="#OpenTrackInfoPanel" type="Text" xAnchor="#Controls.100.5" x="0" yAnchor="#Cover_03.2" y="0" width="30" font="Segoe MDL2 Assets" style="Bold" size="14" fg="125,125,125" mouseOverFg="252,161,3" onClick="OpenAutoHidePanel:#TrackInfoPanel">&#xE90B;</element>
+	<element name="#OpenTrackInfoPanel" type="Text" xAnchor="Panel.97.3" x="0" yAnchor="#Cover_03.2" y="0" width="30" font="Segoe MDL2 Assets" style="Bold" size="18" fg="125,125,125" mouseOverFg="252,161,3" onClick="OpenAutoHidePanel:#TrackInfoPanel">&#xE90B;</element>
+ 
+	<element name="#OpenTracksPanel" type="Text" xAnchor="Panel.1.5" x="0" yAnchor="#Cover_03.2" y="0" width="30" font="Segoe MDL2 Assets" style="Bold" size="18" fg="125,125,125" mouseOverFg="252,161,3" onClick="OpenAutoHidePanel:#TracksPanel">&#xE90B;</element>
 
-	<element name="#OpenLyricsPanel" type="Text" xAnchor="#Cover_01.02" x="0" yAnchor="Panel.90" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="252,161,3" onClick="OpenAutoHidePanel:#LyricsPanel">&#xE7F0;</element>
-	<element name="#OpenArtistInfoPanel" type="Text" xAnchor="#Cover_01.95" x="0" yAnchor="Panel.90" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="252,161,3" onClick="OpenAutoHidePanel:#ArtistInfoPanel">&#xE77B;</element>
+	<element name="#OpenLyricsPanel" type="Text" xAnchor="#Cover_01.02.5" x="0" yAnchor="Panel.90" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="252,161,3" onClick="OpenAutoHidePanel:#LyricsPanel">&#xE7F0;</element>
+
+	<element name="#OpenArtistInfoPanel" type="Text" xAnchor="#Cover_01.94.5" x="0" yAnchor="Panel.90" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="252,161,3" onClick="OpenAutoHidePanel:#ArtistInfoPanel">&#xE77B;</element>
 
 	<element type="Text"  xAnchor="#Controls.100.5" x="0" yAnchor="#Cover_10.2" y="0" widthDock="Panel.50" width="0" font="Segoe MDL2 Assets" style="Regular" size="14" fg="175,175,175" mouseOverFg="255,0,64" onClick="CloseWindow">&#xEF2C;</element>
 
