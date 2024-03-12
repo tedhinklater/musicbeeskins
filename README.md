@@ -6,7 +6,7 @@ Skins and layout for MusicBee
 ![Spotify AMOLED_3](https://github.com/tedhinklater/musicbeeskins/assets/66086488/865e118f-ec49-4191-bca1-9be84855d89e)
 ![Spotify AMOLED_4](https://github.com/tedhinklater/musicbeeskins/assets/66086488/b2c978dd-cdc6-4732-a4e7-f5c4ff520c8e)
 
-"Vinyl Crate" style Theatre Mode skin. Recreates the feel of crate digging, with Shuffle, Mute, Visualiser, Artist Info, Lyrics and Jump-to-Track onClick feature.
+"Vinyl Crate" style Theatre Mode skin. Recreates the feel of crate digging, with Shuffle, Mute, Visualiser, Playlist, Artist Info, Lyrics and Jump-to-Track onClick feature.
 
 Fullscreen
 ![Screenshot001](https://github.com/tedhinklater/SpotifyAMOLEDVinylCrateTM/assets/66086488/82b79f62-9a18-477a-9c7e-f56fb8b9716f)
